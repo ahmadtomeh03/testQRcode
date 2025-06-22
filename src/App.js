@@ -1,10 +1,10 @@
 import "./App.css";
-import QrScanner from "./QrScanner";
+import QrScannerCustom from "./QrScannerCustom";
 
 function App() {
   return (
     <div className="App">
-      <QrScanner />
+      <QrScannerCustom />
     </div>
   );
 }
